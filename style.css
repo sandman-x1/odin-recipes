@@ -1,0 +1,24 @@
+* {
+    font-family: Georgia, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.index-list {
+    background-color: aquamarine;
+}
+
+.ingredients-list {
+    background-color: lightblue;
+}
+
+ol {
+    background-color: lightblue;
+}
